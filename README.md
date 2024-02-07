@@ -50,3 +50,10 @@ they will perish. Explosive eggs follow realistic behaviour which depend
 on factors like initial velocity, blast force, and environmental barriers.
 When explosions occur, the affected ducks experience tangible effects that
 influence their movements in a lifelike way, due to the physics engine.
+
+
+### Game demo
+
+Here a short gameplay:
+
+https://github.com/fini03/QuackBlast/blob/main/quackblast.mp4
