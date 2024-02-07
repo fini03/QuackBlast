@@ -30,10 +30,12 @@ enemies and open pathways. Pay attention to blast radius, as explosions
 can also harm the player. Every explosive egg will have a color showing
 its trait. The selection of these eggs will be random. 
 
-**Red:** The explosion will be one unit in every direction
-**Blue:** The explosion will be the whole row
-**Green:** The explosion will be the whole column
-**Yellow:** The explosion will be the whole row + column
+| Egg Color        | Description                                                          |
+|------------------|--------------------------------------------------------------------- |
+| <kbd>Red</kbd>   | The explosion will be one unit in every direction                    |
+| <kbd>Blue</kbd>  | The explosion will be the whole row                                  |
+| <kbd>Green</kbd> | The explosion will be the whole column                               |
+| <kbd>Yellow</kbd>| The explosion will be the whole row + column                         |
 
 ### 🦆 Enemy Intelligence
 
