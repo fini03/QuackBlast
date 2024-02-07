@@ -56,4 +56,4 @@ influence their movements in a lifelike way, due to the physics engine.
 
 Here a short gameplay:
 
-https://github.com/fini03/QuackBlast/blob/main/quackblast.mp4
+https://github.com/fini03/QuackBlast/assets/112564342/78a74482-4bbe-4b39-aaa7-d2461315babf
