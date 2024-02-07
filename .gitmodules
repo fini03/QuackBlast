@@ -1,0 +1,3 @@
+[submodule "ViennaVulkanEngine"]
+	path = ViennaVulkanEngine
+	url = git@github.com:fini03/ViennaVulkanEngine.git
