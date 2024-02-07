@@ -1,4 +1,4 @@
-# QuackBlast
+# 🦆 QuackBlast
 QuackBlast is a thrilling 2D single-player action game that draws from
 the classic Bomberman concept while adding a delightful duck theme and
 strategic complexity. Players assume the role of a charismatic duck
