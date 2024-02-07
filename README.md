@@ -18,10 +18,14 @@ goal is to reach the exit of each level.
 
 ### 🎮 Movement
 
-Players control the duck's movement through mazes using the **WASD**
-keys, navigating obstacles and strategically placing explosive eggs with
-the **SPACE** key. It is also possible to rotate the duck by pressing the
-**R** key.
+| Key                | Description                                                          |
+|--------------------|--------------------------------------------------------------------- |
+| <kbd>W</kbd>       | Move the player forward                                              |
+| <kbd>A</kbd>       | Move the player to the left                                          |
+| <kbd>S</kbd>       | Move the player backwards                                            |
+| <kbd>D</kbd>       | Move the player to the right                                         |
+| <kbd>R</kbd>       | Rotate the player                                                    |
+| <kbd>Space</kbd>   | Place colored explosive egg                                          |
 
 ### 💣 Explosive Combat
 
@@ -32,10 +36,10 @@ its trait. The selection of these eggs will be random.
 
 | Egg Color        | Description                                                          |
 |------------------|--------------------------------------------------------------------- |
-| <kbd>Red</kbd>   | The explosion will be one unit in every direction                    |
-| <kbd>Blue</kbd>  | The explosion will be the whole row                                  |
-| <kbd>Green</kbd> | The explosion will be the whole column                               |
-| <kbd>Yellow</kbd>| The explosion will be the whole row + column                         |
+| Red              | The explosion will be one unit in every direction                    |
+| Blue             | The explosion will be the whole row                                  |
+| Green            | The explosion will be the whole column                               |
+| Yellow           | The explosion will be the whole row + column                         |
 
 ### 🦆 Enemy Intelligence
 
