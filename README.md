@@ -7,7 +7,7 @@ challenging labyrinths filled with enemies.
 
 <img src="https://github.com/fini03/QuackBlast/blob/main/game.png">
 
-### Gameplay Mechanics
+### 👾 Gameplay Mechanics
 
 QuackBlast features gameplay mechanics similar to those found in the
 classic game Bomberman. Players guide their duck character through
@@ -16,14 +16,14 @@ outwit opponents. If an enemy is hit by the bomb, they will perish,
 and if the duck collides with an opponent, the player loses. The ultimate
 goal is to reach the exit of each level.
 
-### Movement
+### 🎮 Movement
 
 Players control the duck's movement through mazes using the **WASD**
 keys, navigating obstacles and strategically placing explosive eggs with
 the **SPACE** key. It is also possible to rotate the duck by pressing the
 **R** key.
 
-### Explosive Combat
+### 💣 Explosive Combat
 
 Deploy a diverse range of explosive eggs strategically to eliminate
 enemies and open pathways. Pay attention to blast radius, as explosions
@@ -35,12 +35,7 @@ its trait. The selection of these eggs will be random.
 **Green:** The explosion will be the whole column
 **Yellow:** The explosion will be the whole row + column
 
-### Enemy Intelligence
-
-Intelligent enemy ducks employ A* navigation, dynamically pursuing the
-player. Evade enemies with careful planning and swift reflexes.
-
-### AI/Physics/Enemies
+### 🦆 Enemy Intelligence
 
 There will be intelligent enemy ducks with A* navigation that pursue the
 player dynamically, requiring cautious planning and swift reflexes to
