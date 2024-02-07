@@ -52,7 +52,7 @@ When explosions occur, the affected ducks experience tangible effects that
 influence their movements in a lifelike way, due to the physics engine.
 
 
-### Game demo
+### 👾 Game demo
 
 Here a short gameplay:
 
